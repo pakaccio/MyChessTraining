@@ -1,0 +1,15 @@
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\ChessMisztal.csproj.AssemblyReference.cache
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\ChessMisztal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\ChessMisztal.AssemblyInfoInputs.cache
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\ChessMisztal.AssemblyInfo.cs
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\ChessMisztal.csproj.CoreCompileInputs.cache
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\ChessMisztal.dll
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\ref\ChessMisztal.dll
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\ChessMisztal.pdb
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\bin\Debug\netstandard2.0\ChessMisztal.deps.json
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\bin\Debug\netstandard2.0\ChessMisztal.dll
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\bin\Debug\netstandard2.0\ref\ChessMisztal.dll
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\bin\Debug\netstandard2.0\ChessMisztal.pdb
+C:\Users\papas\source\repos\ChessMisztal\ChessMisztal\ChessMisztal\obj\Debug\netstandard2.0\XamlC.stamp

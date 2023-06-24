@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             x:Class="ChessMisztal.MainPage"
+             xmlns:local="clr-namespace:ChessMisztal">
+    <ContentPage.BindingContext>
+        <local:ChessViewModel x:Name="MyChessViewModel" />
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+        <local:ChessboardView x:Name="szachownica"
+                  ChessBoard="{Binding CurrentChessBoard}"
+                  RowSpacing="0" ColumnSpacing="0"
+                  Margin="20"
+                  HeightRequest="{Binding Path=Width, Source={x:Reference szachownica}}"
+                  InputTransparent="False">
+            
+        </local:ChessboardView>
+        <Button Text="Previous move" Command="{Binding UndoMoveCommand}" />
+        <Button Text="New Game" Command="{Binding NewGameCommand}" />
+        <Button Text="New Game (vs AI)" Command="{Binding NewGameAICommand}" />
+        <Button Text="New Game 960" Command="{Binding NewGame960Command}" />
+    </StackLayout>
+</ContentPage>

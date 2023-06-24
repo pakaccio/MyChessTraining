@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChessMisztal.Bishop">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bishop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMisztal.ChessAI">
+    <Position X="12.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAIAAAAAAAAAAAIAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChessAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMisztal.ChessBoard" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAAAAAgAAMAAACAAkgAAAAAAAAAAAESAQAAA=</HashCode>
+      <FileName>ChessBoard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChessMisztal.ChessboardView">
+    <Position X="14" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gCAAAEAAAAAAAAAAAAYgCgAAAAIAAAAAAAAEIAAAAMA=</HashCode>
+      <FileName>ChessboardView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMisztal.ChessViewModel" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAYhAgAAICAgCQAghAAQAACAABAAAAAQAAA=</HashCode>
+      <FileName>ChessViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.524" />
+  </Class>
+  <Class Name="ChessMisztal.King">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>King.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMisztal.Knight">
+    <Position X="16" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Knight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMisztal.MainPage">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMisztal.Pawn">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMisztal.Piece">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAABAAAAQAAAAAGFQgAACABAAACAAACAAAAAA=</HashCode>
+      <FileName>Piece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMisztal.Queen">
+    <Position X="13.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Queen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMisztal.Rook">
+    <Position X="18.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
